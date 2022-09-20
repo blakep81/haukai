@@ -206,3 +206,9 @@ table{
 th{
   text-decoration: underline;
 }
+/* To add new CSS style to new tags use the following code to keep it compatible with the site:
+    color:white; -------this keeps the text white
+    font-family:Georgia, 'Times New Roman', Times, serif;---- Chosen font for the site
+    font-size: 1.2vw; ---- vw is the font size to make it compatible with mobile
+    text-align: center; ---  aligns the text to the center of the page to fit with everything else
+    */
