@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 web/
+haukai: vendor/bin/heroku-php-apache2 haukai/
