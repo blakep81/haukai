@@ -1,5 +1,5 @@
-<!--<?php include_once("home.html"); ?>-->
-<!DOCTYPE html>
+<?php include_once("home.html"); ?>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,4 +9,4 @@
 </head>
 <body>
 </body>
-</html>
+</html>-->
